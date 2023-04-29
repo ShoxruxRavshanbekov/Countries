@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF000000</color>
+    <color name="primary_text_color">#FFFFFF</color>
+    <color name="item_unpressed_color">#424242</color>
+    <color name="item_pressed_color">#656565</color>
+</resources>
