@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Countries" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <item name="colorPrimary">@color/primary_color</item>
-    </style>
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Base.Theme.Countries" parent="Theme.Material3.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your dark theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/primary_color</item>-->
+<!--    </style>-->
 
-    <style name="Theme.Countries" parent="Base.Theme.Countries" />
+<!--    <style name="Theme.Countries" parent="Base.Theme.Countries" />-->
 </resources>

@@ -2,7 +2,7 @@ package uz.futuresoft.countries.data.usecase
 
 import kotlinx.coroutines.flow.Flow
 import uz.futuresoft.countries.domain.models.CountryModel
-import uz.futuresoft.countries.domain.repository.CountryRepository
+import uz.futuresoft.countries.domain.remote.repositories.CountryRepository
 import uz.futuresoft.countries.domain.usecases.GetAllCountriesUseCase
 import uz.futuresoft.countries.domain.utils.ResponseResult
 import javax.inject.Inject
